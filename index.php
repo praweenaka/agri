@@ -13,7 +13,7 @@
     <a href="fonts/0kd-namal.TTF"></a>
     <a href="fonts/araliya.ttf"></a>
     <a href="fonts/0KDMANEL.TTF"></a>  
-    <title>Alazea - Gardening &amp; Landscaping HTML Template</title>
+    <title>Alazea - Gardening &amp; L e</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/favicon.ico">
